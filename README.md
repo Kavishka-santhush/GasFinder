@@ -1,10 +1,12 @@
 # GasFinder - LP Gas Cylinder Tracking Application
+![Screenshot (176)](https://github.com/user-attachments/assets/3c984d2f-4d88-4846-94fc-3812126d2ae1)
 
 GasFinder is a web-based application designed to help customers find LP gas cylinders from local shops in Sri Lanka. The application provides real-time inventory tracking and an interactive map interface to locate nearby gas shops.
 
 ## Features
 
 - **Interactive Map Interface**
+
   - Real-time visualization of gas shops
   - Click markers to view shop details
   - Responsive map that adjusts to search results
